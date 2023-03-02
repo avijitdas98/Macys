@@ -1,0 +1,171 @@
+ .body1{
+            text-align: center;
+            font-size: 80px;
+            font-style: italic;
+            padding-top: 100px;
+            text-decoration:underline;
+            color: red
+             }
+        .body2{
+            text-align: center;
+            }
+ .men1{
+            text-align: center;
+            text-decoration: underline;
+            font-size: 80px;
+            font-style: italic;
+            color:E31840;
+            padding: 50px
+        }
+        .men2{
+            text-align: center;
+            text-decoration: underline;
+            font-style: italic
+            
+        }
+    .home1{
+            font-size:60px;
+            color:E31840 ;
+            text-align: center;
+            font-style: italic;
+            text-decoration: underline;
+        padding-bottom: 20px
+          
+           }
+.home2 li{
+        list-style: none;
+        text-align: center;
+       float: left;
+    width: 200px;
+    font-style: italic;
+    font-family:fantasy;
+    text-decoration:underline;
+    cursor: pointer;
+    border-bottom-style:solid;
+    border-bottom-color:hotpink;
+    }
+
+
+#button1{
+    padding: 10px;
+    background-color:limegreen;
+    font-size: 20px;
+    border-radius: 10px;
+    font-weight: bolder;
+    transition: background-color 2s ease 0s;
+    cursor:pointer;
+}
+
+
+#button1:hover{
+     background-color:limegreen;
+}
+
+#button1:hover{
+     background-color:deepskyblue;
+}
+
+
+
+#button2{
+    padding: 10px;
+    background-color:orangered;
+    font-size: 20px;
+    border-radius: 10px;
+    font-weight: bolder;
+    transition: background-color 2s ease 0s;
+    cursor:pointer;
+}
+
+
+#button2:hover{
+     background-color:orangered;
+}
+
+#button2:hover{
+     background-color:deepskyblue;
+}
+
+
+   #button3{
+    padding: 5px;
+    background-color:deepskyblue;
+    font-size: 15px;
+    border-radius: 10px;
+    font-weight: bolder;
+    transition: background-color 2s ease 0s;
+    cursor:pointer;
+}
+
+
+#button3:hover{
+     background-color:deepskyblue;
+}
+
+#button3:hover{
+     background-color:orangered;
+}
+
+
+     #button4{
+    padding: 5px;
+    background-color:limegreen;
+    font-size: 15px;
+    border-radius: 10px;
+    font-weight: bolder;
+    transition: background-color 2s ease 0s;
+    cursor:pointer;
+}
+
+
+#button4:hover{
+     background-color:limegreen;
+}
+
+#button4:hover{
+     background-color:deepskyblue;
+}
+
+#box1{
+    padding: 30px;
+    border-radius: 10px;
+    cursor: pointer
+}
+#box2{
+    padding: 15px;
+    border-radius: 10px;
+    cursor: pointer
+}
+#box3{
+    border-radius: 10px;
+    padding: 3px;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
